@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "ciudads",
+  "info": {
+    "singularName": "ciudad",
+    "pluralName": "ciudads",
+    "displayName": "ciudad"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "ciudad": {
+      "type": "string"
+    }
+  }
+}
